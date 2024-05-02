@@ -1,0 +1,6 @@
+Food.objects.create(name="cappuccino",category="coffee drink",price="190",offer="5")
+Food.objects.create(name="pineapple juice",category="soft drink",price="80",offer="5")
+Food.objects.create(name="biriyani",category="lunch",price="180",offer="10")
+Food.objects.create(name="chicken egg soup",category="soup",price="50",offer="2")
+Food.objects.create(name="chicken noodels",category="lunch",price="150",offer="4")
+Food.objects.create(name="idiyappam",category="breakfast",price="70",offer="3")
